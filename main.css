@@ -1,0 +1,85 @@
+body, html {
+        margin: 0px;
+        display: flex;
+}
+
+.container-fluid {
+   width: 100vw;
+   height: 100vh;
+}
+
+
+
+
+.my-first-col {
+    height: 100vh;
+    background-color:#654321;
+}
+
+/* Down here will be the style for everything inside the 1st col*/
+
+.profile-pic {
+background-blend-mode: lighten;
+
+}
+
+.col-auto {
+    margin: 40px 17px;
+    flex-wrap: wrap;
+}
+
+/* button */
+.btn {
+    width:150px; 
+    flex-wrap: wrap;
+}
+
+/* menu */
+.card {
+    margin: 0px 10px;
+    width: 10rem;
+  background-color:#654321;
+  border: none;
+}
+
+.list-group-flush {
+    background-color:#654321;
+    border: none;
+
+
+}
+
+.list-group-item {
+
+    background-color:#654321;
+    border: none;
+
+}
+
+
+/* finish point for 1st column */
+
+.my-second-col {
+    background-color:rgb(211, 203, 203);
+    height: 100vh;
+    
+}
+
+/* Down here will be the style for everything inside the 2nd col*/
+
+.email:hover { 
+    background-color: yellow;
+  }
+
+
+/* finish point for 2nd column */
+
+.my-third-col {
+    height: 100vh;
+}
+
+/* Down here will be the style for everything inside the 3rd col*/
+
+
+
+/* finish point for 3rd column */
