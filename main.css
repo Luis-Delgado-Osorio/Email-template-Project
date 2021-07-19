@@ -14,6 +14,7 @@ body, html {
 .my-first-col {
     height: 100vh;
     background-color:#654321;
+
 }
 
 /* Down here will be the style for everything inside the 1st col*/
@@ -45,6 +46,7 @@ background-blend-mode: lighten;
 .list-group-flush {
     background-color:#654321;
     border: none;
+    width: 95%;
 
 
 }
@@ -53,6 +55,7 @@ background-blend-mode: lighten;
 
     background-color:#654321;
     border: none;
+    width: 95%;
 
 }
 
