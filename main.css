@@ -35,6 +35,7 @@ background-blend-mode: lighten;
     flex-wrap: wrap;
 }
 
+
 /* menu */
 .card {
     margin: 0px 10px;
@@ -42,6 +43,7 @@ background-blend-mode: lighten;
   background-color:#654321;
   border: none;
 }
+
 
 .list-group-flush {
     background-color:#654321;
@@ -59,7 +61,13 @@ background-blend-mode: lighten;
 
 }
 
+.menu-text:hover {
+    color: white;
+}
 
+.card-header:hover {
+    color: white;
+}
 /* finish point for 1st column */
 
 .my-second-col {
