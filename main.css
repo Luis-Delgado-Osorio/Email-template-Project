@@ -79,8 +79,10 @@ background-blend-mode: lighten;
 /* Down here will be the style for everything inside the 2nd col*/
 
 .entire-email-cards {
-    width: 95%; 
-     margin: 24px 5px;
+    /*width: 95%; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .email-list {
