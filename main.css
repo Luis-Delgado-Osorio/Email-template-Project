@@ -78,11 +78,20 @@ background-blend-mode: lighten;
 
 /* Down here will be the style for everything inside the 2nd col*/
 
-.email:hover { 
-    background-color: yellow;
-  }
+.entire-email-cards {
+    width: 95%; 
+     margin: 24px 5px;
+}
 
+.email-list {
+    background-color: white;  
+     box-shadow: 1px 1.8px 4px 0px #5c5757;
+}
 
+.final-email {
+    background-color: white; 
+    box-shadow: 1px 1px 4px 0px #5c5757;
+}
 /* finish point for 2nd column */
 
 .my-third-col {
